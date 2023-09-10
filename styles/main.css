@@ -8,6 +8,8 @@
   border-width: 7px;
   border-style: solid;
   border-radius: 75px;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 #core-links {
@@ -17,6 +19,8 @@
   border-style: solid;
   border-radius: 75px;
   margin-top: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 #tech-links {
@@ -26,6 +30,8 @@
   border-style: solid;
   border-radius: 75px;
   margin-top: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 .hr-size {
@@ -52,4 +58,8 @@ body {
   background-color: #e5e5f7;
 opacity: 0.8;
 background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #e5e5f7 10px ), repeating-linear-gradient( #c95b4755, #c95b47 );
+}
+
+footer {
+  color: white;
 }
