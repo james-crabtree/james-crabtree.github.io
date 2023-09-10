@@ -3,7 +3,27 @@
 }
 
 #intro {
-  background-color: red;
+  background-color: white;
+  border-color: red;
+  border-width: 7px;
+  border-style: solid;
+  border-radius: 75px;
+}
+
+#core-links {
+  background-color: white;
+  border-color: red;
+  border-width: 7px;
+  border-style: solid;
+  border-radius: 75px;
+}
+
+#tech-links {
+  background-color: white;
+  border-color: red;
+  border-width: 7px;
+  border-style: solid;
+  border-radius: 75px;
 }
 
 .hr-size {
@@ -16,4 +36,18 @@
 .text {
   padding-left: 80px;
   padding-right: 80px;
+  font-size: 17px;
+}
+
+.li {
+  display: inline-block;
+  text-align: center;
+  font-size: 17px;
+  padding: 20px;
+}
+
+body {
+  background-color: #e5e5f7;
+opacity: 0.8;
+background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #e5e5f7 10px ), repeating-linear-gradient( #c95b4755, #c95b47 );
 }
