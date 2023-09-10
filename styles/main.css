@@ -1,0 +1,19 @@
+#title {
+  text-align: center;
+}
+
+#intro {
+  background-color: red;
+}
+
+.hr-size {
+  height: 4px;
+  background: red;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.text {
+  padding-left: 80px;
+  padding-right: 80px;
+}
