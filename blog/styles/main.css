@@ -1,0 +1,88 @@
+#title {
+  text-align: center;
+}
+
+#intro {
+  background-color: white;
+  border-color: red;
+  border-width: 7px;
+  border-style: solid;
+  border-radius: 75px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+#core-links {
+  background-color: white;
+  border-color: red;
+  border-width: 7px;
+  border-style: solid;
+  border-radius: 75px;
+  margin-top: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+#tech-links {
+  background-color: white;
+  border-color: red;
+  border-width: 7px;
+  border-style: solid;
+  border-radius: 75px;
+  margin-top: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+#main-body {
+  background-color: white;
+  border-color: red;
+  border-width: 7px;
+  border-style: solid;
+  border-radius: 75px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.hr-size {
+  height: 4px;
+  background: red;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.text {
+  padding-left: 80px;
+  padding-right: 80px;
+  font-size: 17px;
+}
+
+.heading {
+  padding-left: 80px;
+  padding-right: 80px;
+  font-size: 25px;
+  text-decoration: underline;
+  color: #FF8080;
+}
+
+.li {
+  display: inline-block;
+  text-align: center;
+  font-size: 17px;
+  padding: 20px;
+}
+
+.pshead {
+  color: red;
+  text-decoration: strong;
+}
+
+body {
+  background-color: #e5e5f7;
+opacity: 0.8;
+background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #e5e5f7 10px ), repeating-linear-gradient( #c95b4755, #c95b47 );
+}
+
+footer {
+  color: white;
+}
