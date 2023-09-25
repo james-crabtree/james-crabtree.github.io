@@ -72,9 +72,12 @@
   padding: 20px;
 }
 
-.pshead {
+.tequestions {
+  color: blue;
+}
+
+.teanswers {
   color: red;
-  text-decoration: strong;
 }
 
 body {
