@@ -77,9 +77,6 @@
   text-decoration: strong;
 }
 
-.ttable, .tth, .ttd {
-  border:1px solid black;
-
 body {
   background-color: #e5e5f7;
 opacity: 0.8;
