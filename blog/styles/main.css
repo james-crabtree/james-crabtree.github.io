@@ -44,6 +44,16 @@
   margin-right: 50px;
 }
 
+#sec-body {
+  background-color: white;
+  border-color: red;
+  border-width: 7px;
+  border-style: solid;
+  border-radius: 75px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
 .hr-size {
   height: 4px;
   background: red;
@@ -73,11 +83,11 @@
 }
 
 .tequestions {
-  color: blue;
+  background-color: pink;
 }
 
 .teanswers {
-  color: red;
+  background-color: red;
 }
 
 body {
